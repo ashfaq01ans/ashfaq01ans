@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ashfaq, and I am an Aspiring Developer based in India </h2>
+<h2 align="left">Hi 👋! My name is Ashfaq, and I am an Developer based in India </h2>
 
 ###
 
